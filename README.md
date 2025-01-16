@@ -37,7 +37,7 @@ An analytical project exploring Spotify tracks and playlists using **Python** an
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Portfolio:** [Portfolio Link](https://github.com/jamiekm1004/jamiekm1004.github.io.git)
-- **LinkedIn:** [Jamie Kim](https://linkedin.com/in/jamie-kim-stat)
+- **Portfolio:** [Portfolio Link](https://jamiekm1004.github.io/)
+- **LinkedIn:** [Jamie Kim](www.linkedin.com/in/jamie-kim-stats)
 - **GitHub:** [GitHub Profile](https://github.com/jamiekm1004)
 
